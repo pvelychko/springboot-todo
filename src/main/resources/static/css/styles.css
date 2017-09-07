@@ -1,0 +1,24 @@
+.navbar-brand {
+	height: 128px;
+}
+
+.navbar-brand > img {
+	height: 100%;
+}
+
+nav > div > div.collapse.navbar-collapse > h1 {
+	line-height: 2.5;
+	color: #fff;
+}
+
+.navbar-default {
+	background-color: #b8def3;
+}
+
+.hidden-element {
+	display: none !important;
+}
+
+.clickable {
+	cursor: pointer;
+}
